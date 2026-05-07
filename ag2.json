@@ -1,0 +1,7 @@
+{
+  "base64": {
+    "version": "v1.0.0",
+    "description": "A Base64 library that supports basic encoding and decoding.",
+    "mainDirectory": "ag2/base64"
+  }
+}
